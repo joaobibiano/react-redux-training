@@ -14,6 +14,12 @@ or
 npm i
 ```
 
+Later, type
+
+```bash
+yarn start
+```
+
 ## Description
 
 Small example to describe how React works with Redux with Class Components and Hooks. This project use Expo to make easier launch the app
